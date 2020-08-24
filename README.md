@@ -55,5 +55,6 @@ THEN that will be shown on the page, and added to their transaction history when
 https://arcane-forest-32944.herokuapp.com/
 
 ### DEMO
+![Untitled_ Aug 24, 2020 7_50 PM](https://user-images.githubusercontent.com/60753848/91107713-ec4eb580-e643-11ea-8ced-4a97ec9c5c29.gif)
 
 
